@@ -1,0 +1,1500 @@
+R3-T7-Term_D04.ab1REVERSED_THREE
+                        1                                                         60
+pRSETA-iGluSnFRopt  246 RAKAKKPDNWEIVGKPQSQEA----YGCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDK 301
+                        ||||| |     .|  . | |     ||||||||||||||||||||||| ||||||||||
+null                 47 RAKAKXP---RXLGN-RXQAAVSGXXGCMLRKDDPQFKKLMDDTIAQVQXSGEAEKWFDK 102
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  302 WFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDN 361
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                103 WFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDN 162
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  362 HYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFTGVVPI 421
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                163 HYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFTGVVPI 222
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  422 LVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRY 481
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                223 LVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRY 282
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  482 PDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDG 541
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                283 PDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDG 342
+
+                        301                                 339
+pRSETA-iGluSnFRopt  542 NILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 580
+                        |||||||||||||| ||||||||||||||||||||||||
+null                343 NILGHKLEYNFNNPWNMNFELSDEMKALFKEPNDKALK* 381
+L4-T7-Term_D01.ab1REVERSED_ONE
+                        1                                                         60
+pRSETA-iGluSnFRopt  268 GCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDKWFKNPILVSHNVYITADKQKNGIKAN 327
+                        ||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||
+null                 51 GCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDKWFKNPILVSANVYITADKQKNGIKAN 110
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  328 FTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYV 387
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                111 FTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYV 170
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  388 NAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIG 447
+                        |||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||
+null                171 NAAGITLGMDELYKGGTGGSMSKGAELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIG 230
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  448 KLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISF 507
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                231 KLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISF 290
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  508 KDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNILGHKLEYNFNNPLNMNFELSDEMK 567
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                291 KDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNILGHKLEYNFNNPLNMNFELSDEMK 350
+
+                        301       313
+pRSETA-iGluSnFRopt  568 ALFKEPNDKALK* 580
+                        |||||||||||||
+null                351 ALFKEPNDKALK* 363
+L21-T7-Term_E03.ab1REVERSED_THREE
+                        1                                                         60
+pRSETA-iGluSnFRopt  233 VAFMMDDVLLAGERAKAKKPDNWEIVGKPQSQEA----YGCMLRKDDPQFKKLMDDTIAQ 288
+                        ||||       |||||||||     .|  . | |     |||||||||||||||||||||
+null                 33 VAFMXMTCCXXGERAKAKKP---RXLGN-RRQAAVSGXXGCMLRKDDPQFKKLMDDTIAQ  88
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  289 VQTSGEAEKWFDKWFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQN 348
+                        || |||||||||||||||.|||||||||||||||||||||||||||||||||||||||||
+null                 89 VQXSGEAEKWFDKWFKNPVLVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQN 148
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  349 TPIGDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSM 408
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                149 TPIGDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSM 208
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  409 SKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLV 468
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                209 SKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLV 268
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  469 TTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVN 528
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                269 TTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVN 328
+
+                        301                                              352
+pRSETA-iGluSnFRopt  529 RIELKGTDFKEDGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 580
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                329 RIELKGTDFKEDGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 380
+R21-T7-Term_F06.ab1REVERSED_ONE
+                        1                                                         60
+pRSETA-iGluSnFRopt  267 YGCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDKWFKNPILVSHNVYITADKQKNGIKA 326
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                 58 YGCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDKWFKNPILVSHNVYITADKQKNGIKA 117
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  327 NFTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEY 386
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                118 NFTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEY 177
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  387 VNAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATI 446
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                178 VNAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATI 237
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  447 GKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTIS 506
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                238 GKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTIS 297
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  507 FKDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNILGHKLEYNFNNPLNMNFELSDEM 566
+                        |||||||||||||||||||||||||||||||||||||||||||||.||||||||||||||
+null                298 FKDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNILGHKLEYNYNNPLNMNFELSDEM 357
+
+                        301        314
+pRSETA-iGluSnFRopt  567 KALFKEPNDKALK* 580
+                        ||||||||||||||
+null                358 KALFKEPNDKALK* 371
+R5-T7-Term_F04.ab1REVERSED_THREE
+                        1                                                         60
+pRSETA-iGluSnFRopt  238 DDVLLAGERAKAKKPDNWEIVGKPQSQEAYGCMLRKDDPQFKKLMDDTIAQVQTSGEAEK 297
+                        ||| |  |||||| ||||||| ||| ||  ||||||||||||||||||||||||||||||
+null                 38 DDVXLXXERAKAKXPDNWEIVXKPQXQEXXGCMLRKDDPQFKKLMDDTIAQVQTSGEAEK  97
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  298 WFDKWFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPVL 357
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                 98 WFDKWFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPVL 157
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  358 LPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFTG 417
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                158 LPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFTG 217
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  418 VVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQC 477
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                218 VVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQC 277
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  478 FSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTDF 537
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                278 FSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTDF 337
+
+                        301                                     343
+pRSETA-iGluSnFRopt  538 KEDGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 580
+                        ||||||||||||||||||.||||||||||||||||||||||||
+null                338 KEDGNILGHKLEYNFNNPINMNFELSDEMKALFKEPNDKALK* 380
+R13-T7-Term_F05.ab1REVERSED_ONE
+                        1                                                         60
+pRSETA-iGluSnFRopt  268 GCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDKWFKNPILVSHNVYITADKQKNGIKAN 327
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                 67 GCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDKWFKNPILVSHNVYITADKQKNGIKAN 126
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  328 FTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYV 387
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                127 FTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYV 186
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  388 NAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIG 447
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                187 NAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIG 246
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  448 KLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISF 507
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                247 KLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISF 306
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  508 KDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNILGHKLEYNFNNPLNMNFELSDEMK 567
+                        |||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||
+null                307 KDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNILGHKLEYNFNFPLNMNFELSDEMK 366
+
+                        301       313
+pRSETA-iGluSnFRopt  568 ALFKEPNDKALK* 580
+                        |||||||||||||
+null                367 ALFKEPNDKALK* 379
+R17-T7-Term_B06.ab1REVERSED_TWO
+                        1                                                         60
+pRSETA-iGluSnFRopt  232 AVAFMMDDVLLAGERAKAKKPDNWEIVGKPQSQEAYGCMLRKDDPQFKKLMDDTIAQVQT 291
+                        ||||||       |||||||||||||| ||||||||||||||||||||||||||||||||
+null                 27 AVAFMMMTCCWXXERAKAKKPDNWEIVXKPQSQEAYGCMLRKDDPQFKKLMDDTIAQVQT  86
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  292 SGEAEKWFDKWFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPI 351
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                 87 SGEAEKWFDKWFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPI 146
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  352 GDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKG 411
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                147 GDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKG 206
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  412 EELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTL 471
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                207 EELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTL 266
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  472 TYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIE 531
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                267 TYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIE 326
+
+                        301                                           349
+pRSETA-iGluSnFRopt  532 LKGTDFKEDGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 580
+                        ||||||||||||||||||||| |||||||||||||||||||||||||||
+null                327 LKGTDFKEDGNILGHKLEYNFVNPLNMNFELSDEMKALFKEPNDKALK* 375
+R20-T7-Term_E06.ab1REVERSED_ONE
+                        1                                                         60
+pRSETA-iGluSnFRopt  246 RAKAKKPDNWEIVGKPQSQEAYGCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDKWFKN 305
+                        | ||  |  ||||||||||| ||| |||||||||||||||||||||||||||||||||||
+null                 47 RXKAXXPXXWEIVGKPQSQEXYGCXLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDKWFKN 106
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  306 PILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLS 365
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                107 PILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLS 166
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  366 TQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILVEL 425
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                167 TQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILVEL 226
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  426 DGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHM 485
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                227 DGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHM 286
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  486 KRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNILG 545
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                287 KRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNILG 346
+
+                        301                             335
+pRSETA-iGluSnFRopt  546 HKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 580
+                        ||||||||.||||||||||||||||||||||||||
+null                347 HKLEYNFNHPLNMNFELSDEMKALFKEPNDKALK* 381
+R22-T7-Term_G06.ab1REVERSED_THREE
+                        1                                                         60
+pRSETA-iGluSnFRopt  236 MMDDVLLAGERAKAKKPDNWEIVGKPQSQEAYGCMLRKDDPQFKKLMDDTIAQVQTSGEA 295
+                        ||        | ||  || |||||| ||||||||||||||||||||||||| ||||||||
+null                 27 MMMTCCXPXXRXKAXXPDXWEIVGKXQSQEAYGCMLRKDDPQFKKLMDDTIXQVQTSGEA  86
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  296 EKWFDKWFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGP 355
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                 87 EKWFDKWFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGP 146
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  356 VLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELF 415
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                147 VLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELF 206
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  416 TGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGV 475
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                207 TGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGV 266
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  476 QCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGT 535
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                267 QCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGT 326
+
+                        301                                       345
+pRSETA-iGluSnFRopt  536 DFKEDGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 580
+                        |||||||||||||||||||||||||||||||||||||||||||||
+null                327 DFKEDGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 371
+L14-T7-Term_F02.ab1REVERSED_ONE
+                        1                                                         60
+pRSETA-iGluSnFRopt  232 AVAFMMDDVLLAGERAKAKKPDNWEIVGKPQSQEAYGCMLRKDDPQFKKLMDDTIAQVQT 291
+                        |||||           |   || ||||||||| |||||||||||||||||||||| ||||
+null                 17 AVAFMXMTCCXXVNVRKRXXPDXWEIVGKPQSXEAYGCMLRKDDPQFKKLMDDTIXQVQT  76
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  292 SGEAEKWFDKWFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPI 351
+                        ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||
+null                 77 SGEAEKWFDKWFKNPILSSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPI 136
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  352 GDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKG 411
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                137 GDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKG 196
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  412 EELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTL 471
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                197 EELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTL 256
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  472 TYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIE 531
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                257 TYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIE 316
+
+                        301                                           349
+pRSETA-iGluSnFRopt  532 LKGTDFKEDGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 580
+                        |||||||||||||||||||||||||||||||||||||||||||||||||
+null                317 LKGTDFKEDGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 365
+L11-T7-Term_C02.ab1REVERSED_ONE
+                        1                                                         60
+pRSETA-iGluSnFRopt  348 NTPIGDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGS 407
+                        | |. |||   |   || ||  .|.  .||| || |.| ||| || |||.|||||| |||
+null                109 NGPVXDGPXXFPXXXYLXTQXXVSEXXHEKRXHMXLQEXVNAVGIALGMNELYKGGPGGS 168
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  408 MSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTL 467
+                        ||| ||||  || |||| |||||||| || | |||| |||||||||  |||||||||| |
+null                169 MSKXEELFXXVVRILVEGDGDVNGHKXSVGGGGEGDXTIGKLTLKFXATTGKLPVPWPIL 228
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  468 VTTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLV 527
+                        |||| |||.||| | .||||   ||||  ||||||| .||||||||| | ||| |  || 
+null                229 VTTLGYGVHCFSGYXEHMKRXXXFKSAXREGYVQERPLSFKDDGKYKPRXVVKLEAATLA 288
+
+                        181                                              232
+pRSETA-iGluSnFRopt  528 NRIELKGTDFKEDGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK 579
+                         |||||||||||||||||||||||||||||||||||||||    |||||| |
+null                289 TRIELKGTDFKEDGNILGHKLEYNFNNPLNMNFELSDEMKXXXXEPNDKAXK 340
+L10-T7-Term_B02.ab1REVERSED_TWO
+                        1                                                         60
+pRSETA-iGluSnFRopt  248 KAKKPDNWEIVGKPQSQEAYGCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDKWFKNPI 307
+                        | . || |||| |||||   ||||||||||||||||||||||||||||||||||||||||
+null                 41 KRRNPDXWEIVXKPQSQXXTGCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDKWFKNPI 100
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  308 LVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQ 367
+                        || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                101 LVFHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQ 160
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  368 TVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILVELDG 427
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                161 TVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILVELDG 220
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  428 DVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKR 487
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                221 DVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKR 280
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  488 HDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNILGHK 547
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                281 HDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNILGHK 340
+
+                        301                           333
+pRSETA-iGluSnFRopt  548 LEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 580
+                        |||||||||||||||||||||||||||||||||
+null                341 LEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 373
+R14-T7-Term_G05.ab1REVERSED_TWO
+                        1                                                         60
+pRSETA-iGluSnFRopt  238 DDVLLAGERAKAKKPDNWEIVGKPQS--QEAYGCMLRKDDPQFKKLMDDTIAQVQTSGEA 295
+                        |||| |    ...  .  ..  . |.     |||||||||||||||||||| ||||||||
+null                 33 DDVLXAX*TCESE--ETRQLGNRRQAAVSGXYGCMLRKDDPQFKKLMDDTIXQVQTSGEA  90
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  296 EKWFDKWFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGP 355
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                 91 EKWFDKWFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGP 150
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  356 VLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELF 415
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                151 VLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELF 210
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  416 TGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGV 475
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                211 TGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGV 270
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  476 QCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGT 535
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                271 QCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGT 330
+
+                        301                             335
+pRSETA-iGluSnFRopt  536 DFKEDGNILGHKLEYNFNNPLNMNFELSDEMKALF 570
+                        |||||||||||||||||| ||||||||||||||||
+null                331 DFKEDGNILGHKLEYNFNYPLNMNFELSDEMKALF 365
+R19-T7-Term_D06.ab1REVERSED_ONE
+                        1                                                         60
+pRSETA-iGluSnFRopt  248 KAKKPDNWEIVGKPQSQEAYGCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDKWFKNPI 307
+                        | .    |||| ||||||||||||||||||||||||||||||||||||||||||||||||
+null                 46 KRRNQTTWEIVXKPQSQEAYGCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDKWFKNPI 105
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  308 LVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQ 367
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                106 LVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQ 165
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  368 TVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILVELDG 427
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                166 TVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILVELDG 225
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  428 DVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKR 487
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                226 DVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKR 285
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  488 HDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNILGHK 547
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                286 HDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNILGHK 345
+
+                        301                           333
+pRSETA-iGluSnFRopt  548 LEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 580
+                        ||||| |||||||||||||||||||||||||||
+null                346 LEYNFINPLNMNFELSDEMKALFKEPNDKALK* 378
+R7-T7-Term_H04.ab1REVERSED_ONE
+                        1                                                         60
+pRSETA-iGluSnFRopt  238 DDVLLAGERAKAKKPDNWEIVGKPQS--QEAYGCMLRKDDPQFKKLMDDTIAQVQTSGEA 295
+                        |||| |  |   .  .  ..  . |       ||||||||||||||||||||||||||||
+null                 20 DDVLXA--RXXXEXEETRQLGNRXQXAVSGXXGCMLRKDDPQFKKLMDDTIAQVQTSGEA  77
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  296 EKWFDKWFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGP 355
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                 78 EKWFDKWFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGP 137
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  356 VLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELF 415
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                138 VLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELF 197
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  416 TGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGV 475
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                198 TGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGV 257
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  476 QCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGT 535
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                258 QCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGT 317
+
+                        301                                       345
+pRSETA-iGluSnFRopt  536 DFKEDGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 580
+                        ||||||||||||||||||| |||||||||||||||||||||||||
+null                318 DFKEDGNILGHKLEYNFNNGLNMNFELSDEMKALFKEPNDKALK* 362
+R12-T7-Term_E05.ab1REVERSED_ONE
+                        1                                                         60
+pRSETA-iGluSnFRopt  248 KAKKPDNWEIVGKPQSQEAYGCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDKWFKNPI 307
+                        |   || |||||| ||||  ||||||||||||||||||||||||||||||||||||||||
+null                 45 KRXXPDXWEIVGKXQSQEXTGCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDKWFKNPI 104
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  308 LVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQ 367
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                105 LVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQ 164
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  368 TVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILVELDG 427
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                165 TVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILVELDG 224
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  428 DVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKR 487
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                225 DVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKR 284
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  488 HDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNILGHK 547
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                285 HDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNILGHK 344
+
+                        301                           333
+pRSETA-iGluSnFRopt  548 LEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 580
+                        |||||| ||||||||||||||||||||||||||
+null                345 LEYNFNYPLNMNFELSDEMKALFKEPNDKALK* 377
+L20-T7-Term_D03.ab1REVERSED_TWO
+                        1                                                         60
+pRSETA-iGluSnFRopt  248 KAKKPDNWEIVGKPQSQEAYGCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDKWFKNPI 307
+                        | . ||||||| ||||||||||||||||||||||||||||||||||||||||||||||||
+null                 54 KRRXPDNWEIVXKPQSQEAYGCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDKWFKNPI 113
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  308 LVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQ 367
+                         |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                114 CVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQ 173
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  368 TVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILVELDG 427
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                174 TVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILVELDG 233
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  428 DVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKR 487
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                234 DVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKR 293
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  488 HDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNILGHK 547
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                294 HDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNILGHK 353
+
+                        301                           333
+pRSETA-iGluSnFRopt  548 LEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 580
+                        |||||||||||||||||||||||||||||||||
+null                354 LEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 386
+L12-T7-Term_D02.ab1REVERSED_TWO
+                        1                                                         60
+pRSETA-iGluSnFRopt  238 DDVLLAGERAKAKKPDNWEIVGKPQSQEAYGCMLRKDDPQFKKLMDDTIAQVQTSGEAEK 297
+                        |||       | .  | ||||||||||| |||||||||||||||||||||||||||||||
+null                 31 DDVXXXXXVRKRRNXDXWEIVGKPQSQEXYGCMLRKDDPQFKKLMDDTIAQVQTSGEAEK  90
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  298 WFDKWFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPVL 357
+                        ||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||
+null                 91 WFDKWFKNPILSSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPVL 150
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  358 LPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFTG 417
+                        |||||||||||||||||||||||||||||||||||||||||||||||||.||||||||||
+null                151 LPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGNMSKGEELFTG 210
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  418 VVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQC 477
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                211 VVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQC 270
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  478 FSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTDF 537
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                271 FSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTDF 330
+
+                        301                                     343
+pRSETA-iGluSnFRopt  538 KEDGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 580
+                        |||||||||||||||||||||||||||||||||||||||||||
+null                331 KEDGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 373
+R9-T7-Term_B05.ab1REVERSED_ONE
+                        1                                                         60
+pRSETA-iGluSnFRopt  238 DDVLLAGERAKAKKPD-NWEIVGKPQSQEAYGCMLRKDDPQFKKLMDDTIAQVQTSGEAE 296
+                        |||| |    ....    ||||||||||||||||||||||||||||||||||||||||||
+null                 33 DDVLXAX*TCESEETQTTWEIVGKPQSQEAYGCMLRKDDPQFKKLMDDTIAQVQTSGEAE  92
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  297 KWFDKWFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPV 356
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                 93 KWFDKWFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPV 152
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  357 LLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFT 416
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                153 LLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFT 212
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  417 GVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQ 476
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                213 GVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQ 272
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  477 CFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTD 536
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                273 CFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTD 332
+
+                        301                                      344
+pRSETA-iGluSnFRopt  537 FKEDGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 580
+                        |||||||||||||||||| |||||||||||||||||||||||||
+null                333 FKEDGNILGHKLEYNFNNRLNMNFELSDEMKALFKEPNDKALK* 376
+L3-T7-Term_C01.ab1REVERSED_ONE
+                        1                                                         60
+pRSETA-iGluSnFRopt  267 YGCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDKWFKNPILVSHNVYITADKQKNGIKA 326
+                        |||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||
+null                 78 YGCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDKWFKNPILVSANVYITADKQKNGIKA 137
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  327 NFTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEY 386
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                138 NFTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEY 197
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  387 VNAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATI 446
+                        ||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||
+null                198 VNAAGITLGMDELYKGGTGGSMSKGAELFTGVVPILVELDGDVNGHKFSVRGEGEGDATI 257
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  447 GKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTIS 506
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                258 GKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTIS 317
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  507 FKDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNILGHKLEYNFNNPLNMNFELSDEM 566
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                318 FKDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNILGHKLEYNFNNPLNMNFELSDEM 377
+
+                        301        314
+pRSETA-iGluSnFRopt  567 KALFKEPNDKALK* 580
+                        ||||||||||||||
+null                378 KALFKEPNDKALK* 391
+L18-T7-Term_B03.ab1REVERSED_THREE
+                        1                                                         60
+pRSETA-iGluSnFRopt  238 DDVLLAGERA-KAKKPDNWEIVGKPQSQEAYGCMLRKDDPQFKKLMDDTIAQVQTSGEAE 296
+                        ||||||     |   ||||||||||||||||||||||||||||||||||||||| |||||
+null                 29 DDVLLAXXXVRKRXXPDNWEIVGKPQSQEAYGCMLRKDDPQFKKLMDDTIAQVQXSGEAE  88
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  297 KWFDKWFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPV 356
+                        ||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||
+null                 89 KWFDKWFKNPIAVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPV 148
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  357 LLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFT 416
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                149 LLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFT 208
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  417 GVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQ 476
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                209 GVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQ 268
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  477 CFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTD 536
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                269 CFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTD 328
+
+                        301                                      344
+pRSETA-iGluSnFRopt  537 FKEDGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 580
+                        ||||||||||||||||||||||||||||||||||||||||||||
+null                329 FKEDGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 372
+R11-T7-Term_D05.ab1REVERSED_THREE
+                        1                                                         60
+pRSETA-iGluSnFRopt  248 KAKKPDNWEIVGKPQSQEAYGCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDKWFKNPI 307
+                        | . |||||||||||||| |||||||||||||||||||||||||||||||||||||||||
+null                 51 KXRNPDNWEIVGKPQSQEXYGCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDKWFKNPI 110
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  308 LVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQ 367
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                111 LVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQ 170
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  368 TVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILVELDG 427
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                171 TVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILVELDG 230
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  428 DVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKR 487
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                231 DVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKR 290
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  488 HDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNILGHK 547
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                291 HDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNILGHK 350
+
+                        301                           333
+pRSETA-iGluSnFRopt  548 LEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 580
+                        |||||| ||||||||||||||||||||||||||
+null                351 LEYNFNFPLNMNFELSDEMKALFKEPNDKALK* 383
+L16-T7-Term_H02.ab1REVERSED_THREE
+                        1                                                         60
+pRSETA-iGluSnFRopt  244 GERAKAKKPDNWEIVGKPQSQEA--YGCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDK 301
+                        |||||||||   ..  . |   .   ||||||||||||||||||||||||||||||||||
+null                 12 GERAKAKKPR--QLGNRRQXAXSGXXGCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDK  69
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  302 WFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDN 361
+                        |||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                 70 WFKNPIAVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDN 129
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  362 HYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFTGVVPI 421
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                130 HYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFTGVVPI 189
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  422 LVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRY 481
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                190 LVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRY 249
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  482 PDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDG 541
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                250 PDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDG 309
+
+                        301                                 339
+pRSETA-iGluSnFRopt  542 NILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 580
+                        |||||||||||||||||||||||||||||||||||||||
+null                310 NILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 348
+R24-T7-Term_A07.ab1REVERSED_THREE
+                        1                                                         60
+pRSETA-iGluSnFRopt  246 RAKAKKPDNWEIVGKPQS--QEAYGCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDKWF 303
+                        |||||||   ..  . |.      ||||||||||||||||||||||||||||||||||||
+null                 38 RAKAKKPR--QLGNRXQAAVSGXXGCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDKWF  95
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  304 KNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHY 363
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                 96 KNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHY 155
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  364 LSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILV 423
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                156 LSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILV 215
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  424 ELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPD 483
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                216 ELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPD 275
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  484 HMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNI 543
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                276 HMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNI 335
+
+                        301                               337
+pRSETA-iGluSnFRopt  544 LGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 580
+                        |||||||||||||||||||||||||||||||||||||
+null                336 LGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 372
+L8-T7-Term_H01.ab1REVERSED_TWO
+                        1                                                         60
+pRSETA-iGluSnFRopt  240 VLLAG-ERAKAKKPDNWEIVGKPQS--QEAYGC--MLRKD-----DPQFK-----KLMDD 284
+                        ||||     | . |  |||||||||       |  |.|        |  .     |  . 
+null                  1 VLLAR*NVRKRRNPXXWEIVGKPQSXXXTVVCCVKMIRSSKS*WMTPSLRCRPPVKRKNG  60
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  285 TIAQVQTSGEAEKWFDKWFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADH 344
+                         |     ||          | |||| ||||||||||||||||||||||||||||||||||
+null                 61 LI-----SGS---------KXPILVYHNVYITADKQKNGIKANFTVRHNVEDGSVQLADH 106
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  345 YQQNTPIGDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGT 404
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                107 YQQNTPIGDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGT 166
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  405 GGSMSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPW 464
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                167 GGSMSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPW 226
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  465 PTLVTTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGD 524
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                227 PTLVTTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGD 286
+
+                        301                                                  356
+pRSETA-iGluSnFRopt  525 TLVNRIELKGTDFKEDGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 580
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                287 TLVNRIELKGTDFKEDGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 342
+L22-T7-Term_F03.ab1REVERSED_THREE
+                        1                                                         60
+pRSETA-iGluSnFRopt  239 DVLLAGERAKAKKPDNWEIVGKPQSQEAYGCMLRKDDPQFKKLMDDTIAQVQTSGEAEKW 298
+                        .||||    .   || ||||||||||||||||||||||||||||||| ||||||||||||
+null                 35 NVLLAX*XCEXXXPDXWEIVGKPQSQEAYGCMLRKDDPQFKKLMDDTXAQVQTSGEAEKW  94
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  299 FDKWFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPVLL 358
+                        ||||||||.|||||||||||||||||||||||||||||||||||||||||||||||||||
+null                 95 FDKWFKNPVLVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPVLL 154
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  359 PDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFTGV 418
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                155 PDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFTGV 214
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  419 VPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCF 478
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                215 VPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCF 274
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  479 SRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTDFK 538
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                275 SRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTDFK 334
+
+                        301                                    342
+pRSETA-iGluSnFRopt  539 EDGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 580
+                        ||||||||||||||||||||||||||||||||||||||||||
+null                335 EDGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 376
+R23-T7-Term_H06.ab1REVERSED_THREE
+                        1                                                         60
+pRSETA-iGluSnFRopt  268 GCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDKWFKNPILVSHNVYITADKQKNGIKAN 327
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                 49 GCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDKWFKNPILVSHNVYITADKQKNGIKAN 108
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  328 FTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYV 387
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                109 FTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYV 168
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  388 NAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIG 447
+                        |||||||||||||||||||||||||||||||||||||||||||||||||||.||||||||
+null                169 NAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILVELDGDVNGHKFSVRGDGEGDATIG 228
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  448 KLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISF 507
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                229 KLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISF 288
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  508 KDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNILGHKLEYNFNNPLNMNFELSDEMK 567
+                        |||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||
+null                289 KDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNILGHKLEYNKNNPLNMNFELSDEMK 348
+
+                        301       313
+pRSETA-iGluSnFRopt  568 ALFKEPNDKALK* 580
+                        |||||||||||||
+null                349 ALFKEPNDKALK* 361
+R6-T7-Term_G04.ab1REVERSED_THREE
+                        1                                                         60
+pRSETA-iGluSnFRopt  237 MDDVLLAGERAKAKKPD-NWEIVGKPQSQEAYGCMLRKDDPQFKKLMDDTIAQVQTSGEA 295
+                        |||||||    ....    |||| ||||||||||||||||||||||||||||||||||||
+null                 29 MDDVLLAR*XCESEETQXXWEIVXKPQSQEAYGCMLRKDDPQFKKLMDDTIAQVQTSGEA  88
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  296 EKWFDKWFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGP 355
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                 89 EKWFDKWFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGP 148
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  356 VLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELF 415
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                149 VLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELF 208
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  416 TGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGV 475
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                209 TGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGV 268
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  476 QCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGT 535
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                269 QCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGT 328
+
+                        301                                       345
+pRSETA-iGluSnFRopt  536 DFKEDGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 580
+                        |||||||||||||||||||||||||||||||||||||||||||||
+null                329 DFKEDGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 373
+R15-T7-Term_H05.ab1REVERSED_TWO
+                        1                                                         60
+pRSETA-iGluSnFRopt  238 DDVLLAGERAKAKKPDNWEIVGKPQSQEAYGCMLRKDDPQFKKLMDDTIAQVQTSGEAEK 297
+                        ||||   ||||||||| |||| | ||||   |||||||||||||||||||||||||||||
+null                 20 DDVLXXXERAKAKKPDXWEIVXKXQSQEXTVCMLRKDDPQFKKLMDDTIAQVQTSGEAEK  79
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  298 WFDKWFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPVL 357
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                 80 WFDKWFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPVL 139
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  358 LPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFTG 417
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                140 LPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFTG 199
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  418 VVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQC 477
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                200 VVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQC 259
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  478 FSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTDF 537
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                260 FSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTDF 319
+
+                        301                                     343
+pRSETA-iGluSnFRopt  538 KEDGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 580
+                        |||||||||||||||| ||||||||||||||||||||||||||
+null                320 KEDGNILGHKLEYNFNYPLNMNFELSDEMKALFKEPNDKALK* 362
+L2-T7-Term_B01.ab1REVERSED_ONE
+                        1                                                         60
+pRSETA-iGluSnFRopt  268 GCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDKWFKNPILVSHNVYITADKQKNGIKAN 327
+                        ||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||
+null                 48 GCMLRKDDPQFKKLMDDTIXQVQTSGEAEKWFDKWFKNPILVSHNVYITADKQKNGIKAN 107
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  328 FTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYV 387
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                108 FTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYV 167
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  388 NAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIG 447
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                168 NAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIG 227
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  448 KLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISF 507
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                228 KLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISF 287
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  508 KDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNILGHKLEYNFNNPLNMNFELSDEMK 567
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                288 KDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNILGHKLEYNFNNPLNMNFELSDEMK 347
+
+                        301       313
+pRSETA-iGluSnFRopt  568 ALFKEPNDKALK* 580
+                        |||||||||||||
+null                348 ALFKEPNDKALK* 360
+L5-T7-Term_E01.ab1REVERSED_TWO
+                        1                                                         60
+pRSETA-iGluSnFRopt  268 GCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDKWFKNPILVSHNVYITADKQKNGIKAN 327
+                        |||||||||||||||||||||||||||||||||||||||||||.||||||||||||||||
+null                 49 GCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDKWFKNPILVSNNVYITADKQKNGIKAN 108
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  328 FTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYV 387
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                109 FTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYV 168
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  388 NAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIG 447
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                169 NAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIG 228
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  448 KLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISF 507
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                229 KLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISF 288
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  508 KDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNILGHKLEYNFNNPLNMNFELSDEMK 567
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                289 KDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNILGHKLEYNFNNPLNMNFELSDEMK 348
+
+                        301       313
+pRSETA-iGluSnFRopt  568 ALFKEPNDKALK* 580
+                        |||||||||||||
+null                349 ALFKEPNDKALK* 361
+L1-T7-Term_A01.ab1REVERSED_TWO
+                        1                                                         60
+pRSETA-iGluSnFRopt  244 GERAKAKKPDNWEIVGKPQSQE--AYGC--MLRKDDPQFKKLMDDTIAQVQTSGEAEKWF 299
+                        |  ||| ||| ||||||   .      |  |.|      |||||||||||||||||||||
+null                 24 GXXAKAXKPDXWEIVGKRSXRRXTVVCCVKMIRSS----KKLMDDTIAQVQTSGEAEKWF  79
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  300 DKWFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPVLLP 359
+                        ||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||
+null                 80 DKWFKNPILVSANVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPVLLP 139
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  360 DNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFTGVV 419
+                        |||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||
+null                140 DNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGAELFTGVV 199
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  420 PILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFS 479
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                200 PILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFS 259
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  480 RYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTDFKE 539
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                260 RYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTDFKE 319
+
+                        301                                   341
+pRSETA-iGluSnFRopt  540 DGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 580
+                        |||||||||||||||||||||||||||||||||||||||||
+null                320 DGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 360
+L19-T7-Term_C03.ab1REVERSED_ONE
+                        1                                                         60
+pRSETA-iGluSnFRopt  231 RAVAFMMDDVLLAGERAKAKKPDNWEIVGKPQS--QEAYGCMLRKDDPQFKKLMDDTIAQ 288
+                        ||||||        |||||||    ..  . |.      |||||||||||||||||||||
+null                 33 RAVAFMXMTCCWXXERAKAKKXR--QLGNRRQAAVSGXXGCMLRKDDPQFKKLMDDTIAQ  90
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  289 VQTSGEAEKWFDKWFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQN 348
+                        ||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||
+null                 91 VQTSGEAEKWFDKWFKNPIGVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQN 150
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  349 TPIGDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSM 408
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                151 TPIGDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSM 210
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  409 SKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLV 468
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                211 SKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLV 270
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  469 TTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVN 528
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                271 TTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVN 330
+
+                        301                                              352
+pRSETA-iGluSnFRopt  529 RIELKGTDFKEDGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 580
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                331 RIELKGTDFKEDGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 382
+R10-T7-Term_C05.ab1REVERSED_TWO
+                        1                                                         60
+pRSETA-iGluSnFRopt  238 DDVLLAGERAKAKKPDNWEIVGKPQSQEA----YGCMLRKDDPQFKKLMDDTIAQVQTSG 293
+                        |||||     ....      .|  . | |     ||||||||||||||||||||||||||
+null                 38 DDVLLXXXXCESEEXRQ---LGN-RXQXAVSGXXGCMLRKDDPQFKKLMDDTIAQVQTSG  93
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  294 EAEKWFDKWFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGD 353
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                 94 EAEKWFDKWFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGD 153
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  354 GPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEE 413
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                154 GPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEE 213
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  414 LFTGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTY 473
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                214 LFTGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTY 273
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  474 GVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELK 533
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                274 GVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELK 333
+
+                        301                                         347
+pRSETA-iGluSnFRopt  534 GTDFKEDGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 580
+                        ||||||||||||||||||||| |||||||||||||||||||||||||
+null                334 GTDFKEDGNILGHKLEYNFNNLLNMNFELSDEMKALFKEPNDKALK* 380
+R16-T7-Term_A06.ab1REVERSED_TWO
+                        1                                                         60
+pRSETA-iGluSnFRopt  248 KAKKPDNWEIVGKPQSQEAYGCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDKWFKNPI 307
+                        | . ||||||| |||| |||||||||||||||||||||||||||||||||||||||||||
+null                 40 KRRNPDNWEIVXKPQSXEAYGCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDKWFKNPI  99
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  308 LVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQ 367
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                100 LVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQ 159
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  368 TVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILVELDG 427
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                160 TVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILVELDG 219
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  428 DVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKR 487
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                220 DVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKR 279
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  488 HDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNILGHK 547
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                280 HDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNILGHK 339
+
+                        301                           333
+pRSETA-iGluSnFRopt  548 LEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 580
+                        ||||| |||||||||||||||||||||||||.|
+null                340 LEYNFENPLNMNFELSDEMKALFKEPNDKALE* 372
+R18-T7-Term_C06.ab1REVERSED_TWO
+                        1                                                         60
+pRSETA-iGluSnFRopt  268 GCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDKWFKNPILVSHNVYITADKQKNGIKAN 327
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                 62 GCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDKWFKNPILVSHNVYITADKQKNGIKAN 121
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  328 FTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYV 387
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                122 FTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYV 181
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  388 NAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIG 447
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                182 NAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIG 241
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  448 KLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISF 507
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                242 KLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISF 301
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  508 KDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNILGHKLEYNFNNPLNMNFELSDEMK 567
+                        ||||||||||||||||||||||||||||||||||||||||||||||.|||||||||||||
+null                302 KDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNILGHKLEYNFNHPLNMNFELSDEMK 361
+
+                        301       313
+pRSETA-iGluSnFRopt  568 ALFKEPNDKALK* 580
+                        |||||||||||||
+null                362 ALFKEPNDKALK* 374
+L24-T7-Term_H03.ab1REVERSED_THREE
+                        1                                                         60
+pRSETA-iGluSnFRopt  224 FRTLESGRAVAFMMDDVLLAGERAKAKKPDNWEIVGKPQS--QEAYGCMLRKDDPQFKKL 281
+                        |  | | |||||||||||        .| .  ..  . |.      ||||||||||||||
+null                  3 FXXLXSXRAVAFMMDDVLXX---XNVRKXEXRQLGNRRQAAVSGXXGCMLRKDDPQFKKL  59
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  282 MDDTIAQVQTSGEAEKWFDKWFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQL 341
+                        ||||||||| ||||||||||||||| ||||||||||||||||||||||||||||||||||
+null                 60 MDDTIAQVQXSGEAEKWFDKWFKNPELVSHNVYITADKQKNGIKANFTVRHNVEDGSVQL 119
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  342 ADHYQQNTPIGDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYK 401
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                120 ADHYQQNTPIGDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYK 179
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  402 GGTGGSMSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLP 461
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                180 GGTGGSMSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLP 239
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  462 VPWPTLVTTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKF 521
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                240 VPWPTLVTTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKF 299
+
+                        301                                                     359
+pRSETA-iGluSnFRopt  522 EGDTLVNRIELKGTDFKEDGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 580
+                        |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                300 EGDTLVNRIELKGTDFKEDGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 358
+L6-T7-Term_F01.ab1REVERSED_ONE
+                        1                                                         60
+pRSETA-iGluSnFRopt  224 FRTLESGRAVAFMMDDVL--LAGERAKAKKPDNWEIVGKPQSQEA----YGCMLRKDDPQ 277
+                        |  | | ||  .  ||||     |    ..  |       . | |     ||||||||||
+null                  4 FXXLXSXRAXXYX-DDVLXXXTCESEXTRQXGN-------RRQAAVSGXXGCMLRKDDPQ  55
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  278 FKKLMDDTIAQVQTSGEAEKWFDKWFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDG 337
+                        |||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||
+null                 56 FKKLMDDTIAQVQTSGEAEKWFDKWFKNPILVYHNVYITADKQKNGIKANFTVRHNVEDG 115
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  338 SVQLADHYQQNTPIGDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMD 397
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                116 SVQLADHYQQNTPIGDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMD 175
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  398 ELYKGGTGGSMSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTT 457
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                176 ELYKGGTGGSMSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTT 235
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  458 GKLPVPWPTLVTTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRA 517
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                236 GKLPVPWPTLVTTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRA 295
+
+                        301                                                      360
+pRSETA-iGluSnFRopt  518 VVKFEGDTLVNRIELKGTDFKEDGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKA 577
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                296 VVKFEGDTLVNRIELKGTDFKEDGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKA 355
+
+                        361 363
+pRSETA-iGluSnFRopt  578 LK* 580
+                        |||
+null                356 LK* 358
+L9-T7-Term_A02.ab1REVERSED_TWO
+                        1                                                         60
+pRSETA-iGluSnFRopt  253 DNWEIVGKPQSQEAYGCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDKWFKNPILVSHN 312
+                        | ||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||
+null                 36 DXWEIVGKPQSQEAYGCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDKWFKNPILVDHN  95
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  313 VYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQTVLSK 372
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                 96 VYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQTVLSK 155
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  373 DPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILVELDGDVNGH 432
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                156 DPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILVELDGDVNGH 215
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  433 KFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKRHDFFK 492
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                216 KFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKRHDFFK 275
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  493 SAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNILGHKLEYNF 552
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                276 SAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNILGHKLEYNF 335
+
+                        301                      328
+pRSETA-iGluSnFRopt  553 NNPLNMNFELSDEMKALFKEPNDKALK* 580
+                        ||||||||||||||||||||||||||||
+null                336 NNPLNMNFELSDEMKALFKEPNDKALK* 363
+R1-T7-Term_B04.ab1REVERSED_TWO
+                        1                                                         60
+pRSETA-iGluSnFRopt  231 RAVAFMMDDVLLAGERAKAKKPDNWEIVGKPQSQEAYGCMLRKDDPQFKKLMDDTIAQVQ 290
+                        || ||||||||   |||||| |||||||||||||||||||||||||||||||||||||||
+null                 27 RAXAFMMDDVLXXXERAKAKXPDNWEIVGKPQSQEAYGCMLRKDDPQFKKLMDDTIAQVQ  86
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  291 TSGEAEKWFDKWFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTP 350
+                         |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                 87 XSGEAEKWFDKWFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTP 146
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  351 IGDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSK 410
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                147 IGDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSK 206
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  411 GEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTT 470
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                207 GEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTT 266
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  471 LTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRI 530
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                267 LTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRI 326
+
+                        301                                         347
+pRSETA-iGluSnFRopt  531 ELKGTDFKEDGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKA 577
+                        |||||||||||||||||||||||||.|||||||||||||||||||||
+null                327 ELKGTDFKEDGNILGHKLEYNFNNPINMNFELSDEMKALFKEPNDKA 373
+L25-T7-Term_A04.ab1REVERSED_THREE
+                        1                                                         60
+pRSETA-iGluSnFRopt  244 GERAKAKKPDNWEIVGKPQS--QEAYGCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDK 301
+                        | | || ||   ..  . |.      ||||||||||||||||||||||||||||||||||
+null                 34 GXRXKAXKPR--QLGNRXQAAVSGXXGCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDK  91
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  302 WFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDN 361
+                        |||||.||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                 92 WFKNPVLVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDN 151
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  362 HYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFTGVVPI 421
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                152 HYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFTGVVPI 211
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  422 LVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRY 481
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                212 LVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRY 271
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  482 PDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDG 541
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                272 PDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDG 331
+
+                        301                                 339
+pRSETA-iGluSnFRopt  542 NILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 580
+                        |||||||||||||||||||||||||||||||||||||||
+null                332 NILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 370
+L13-T7-Term_E02.ab1REVERSED_THREE
+                        1                                                         60
+pRSETA-iGluSnFRopt  236 MMDDVLLAGERAKAKKPDNWEIVGKPQSQEA----YGCMLRKDDPQFKKLMDDTIAQVQT 291
+                        ||||||  ||||||  |     .|  . | |     ||||||||||||||||||||||||
+null                 26 MMDDVLXXGERAKAXXP---RXLGN-RRQXAVSGXXGCMLRKDDPQFKKLMDDTIAQVQT  81
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  292 SGEAEKWFDKWFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPI 351
+                        ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||
+null                 82 SGEAEKWFDKWFKNPILSSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPI 141
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  352 GDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKG 411
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                142 GDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKG 201
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  412 EELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTL 471
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                202 EELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTL 261
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  472 TYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIE 531
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                262 TYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIE 321
+
+                        301                                           349
+pRSETA-iGluSnFRopt  532 LKGTDFKEDGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 580
+                        |||||||||||||||||||||||||||||||||||||||||||||||||
+null                322 LKGTDFKEDGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 370
+L23-T7-Term_G03.ab1REVERSED_THREE
+                        1                                                         60
+pRSETA-iGluSnFRopt  245 ERAKAKKPDNWEIVGKPQSQEAYGCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDKWFK 304
+                        |||||  ||||||||| ||||||||||||||||||||||||| |||||||||||||||||
+null                 34 ERAKAXXPDNWEIVGKXQSQEAYGCMLRKDDPQFKKLMDDTIXQVQTSGEAEKWFDKWFK  93
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  305 NPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYL 364
+                        || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                 94 NPXLVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYL 153
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  365 STQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILVE 424
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                154 STQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILVE 213
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  425 LDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDH 484
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                214 LDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDH 273
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  485 MKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNIL 544
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                274 MKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNIL 333
+
+                        301                              336
+pRSETA-iGluSnFRopt  545 GHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 580
+                        ||||||||||||||||||||||||||||||||||||
+null                334 GHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 369
+L15-T7-Term_G02.ab1REVERSED_THREE
+                        1                                                         60
+pRSETA-iGluSnFRopt  238 DDVLLAGERAKAKKPDNWEIVGKPQSQEA--YGCMLRKDDPQFKKLMDDTIAQVQTSGEA 295
+                        |||||     ..   .  ..  . |.  .   ||||||||||||||||||||||||||||
+null                 25 DDVLLXXXTCESX--EXRQLGNRRQAAXSXXXGCMLRKDDPQFKKLMDDTIAQVQTSGEA  82
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  296 EKWFDKWFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGP 355
+                        ||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||
+null                 83 EKWFDKWFKNPILSSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGP 142
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  356 VLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELF 415
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                143 VLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELF 202
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  416 TGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGV 475
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                203 TGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGV 262
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  476 QCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGT 535
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                263 QCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGT 322
+
+                        301                                       345
+pRSETA-iGluSnFRopt  536 DFKEDGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 580
+                        |||||||||||||||||||||||||||||||||||||||||||||
+null                323 DFKEDGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 367
+L17-T7-Term_A03.ab1REVERSED_ONE
+                        1                                                         60
+pRSETA-iGluSnFRopt  218 KDHGDSFRTLESGRAVAFMMDDVLLAGERAKAKKPDNWEIVGKPQSQEAYGCMLRKDDPQ 277
+                        || | ||      ||   ||       |||||||   |||| ||||||||||||||||||
+null                  6 KDXGXSFXXXXX-RAXXMMMT-CCWXXERAKAKKXXXWEIVXKPQSQEAYGCMLRKDDPQ  63
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  278 FKKLMDDTIAQVQTSGEAEKWFDKWFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDG 337
+                        |||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+null                 64 FKKLMDDTIAQVQTSGEAEKWFDKWFKNPIAVSHNVYITADKQKNGIKANFTVRHNVEDG 123
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  338 SVQLADHYQQNTPIGDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMD 397
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                124 SVQLADHYQQNTPIGDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMD 183
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  398 ELYKGGTGGSMSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTT 457
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                184 ELYKGGTGGSMSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTT 243
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  458 GKLPVPWPTLVTTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRA 517
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                244 GKLPVPWPTLVTTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRA 303
+
+                        301                                                      360
+pRSETA-iGluSnFRopt  518 VVKFEGDTLVNRIELKGTDFKEDGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKA 577
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                304 VVKFEGDTLVNRIELKGTDFKEDGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKA 363
+
+                        361 363
+pRSETA-iGluSnFRopt  578 LK* 580
+                        |||
+null                364 LK* 366
+R4-T7-Term_E04.ab1REVERSED_THREE
+                        1                                                         60
+pRSETA-iGluSnFRopt  268 GCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDKWFKNPILVSHNVYITADKQKNGIKAN 327
+                        ||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||
+null                 70 GCMLRKDDPQFKKLMDDTIAQVQXSGEAEKWFDKWFKNPILVSHNVYITADKQKNGIKAN 129
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  328 FTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYV 387
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                130 FTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYV 189
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  388 NAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIG 447
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                190 NAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIG 249
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  448 KLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISF 507
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                250 KLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISF 309
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  508 KDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNILGHKLEYNFNNPLNMNFELSDEMK 567
+                        |||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||
+null                310 KDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNILGHKLEYNFNNPRNMNFELSDEMK 369
+
+                        301       313
+pRSETA-iGluSnFRopt  568 ALFKEPNDKALK* 580
+                        |||||||||||||
+null                370 ALFKEPNDKALK* 382
+R25-T7-Term_B07.ab1REVERSED_TWO
+                        1                                                         60
+pRSETA-iGluSnFRopt  231 RAVAFMMDDVLLAGERAKAKKPDNWEIVGKPQS--QEAYGCMLRKDDPQFKKLMDDTIAQ 288
+                        ||||||       | |||||||   ..  . |.      |||||||||||||||||||||
+null                 30 RAVAFMXMTCCWXGXRAKAKKPR--QLGNRRQAAVSGXXGCMLRKDDPQFKKLMDDTIAQ  87
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  289 VQTSGEAEKWFDKWFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQN 348
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                 88 VQTSGEAEKWFDKWFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQN 147
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  349 TPIGDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSM 408
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                148 TPIGDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSM 207
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  409 SKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLV 468
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                208 SKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLV 267
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  469 TTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVN 528
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                268 TTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVN 327
+
+                        301                                              352
+pRSETA-iGluSnFRopt  529 RIELKGTDFKEDGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 580
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                328 RIELKGTDFKEDGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 379
+L7-T7-Term_G01.ab1REVERSED_ONE
+                        1                                                         60
+pRSETA-iGluSnFRopt  268 GCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDKWFKNPILVSHNVYITADKQKNGIKAN 327
+                        |||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||
+null                 39 GCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDKWFKNPILVFHNVYITADKQKNGIKAN  98
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  328 FTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYV 387
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                 99 FTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYV 158
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  388 NAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIG 447
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                159 NAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIG 218
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  448 KLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISF 507
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                219 KLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISF 278
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  508 KDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNILGHKLEYNFNNPLNMNFELSDEMK 567
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                279 KDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNILGHKLEYNFNNPLNMNFELSDEMK 338
+
+                        301       313
+pRSETA-iGluSnFRopt  568 ALFKEPNDKALK* 580
+                        |||||||||||||
+null                339 ALFKEPNDKALK* 351
+R2-T7-Term_C04.ab1REVERSED_THREE
+                        1                                                         60
+pRSETA-iGluSnFRopt  231 RAVAFMMDDVLLAGERAKAKKPDNWEIVGKPQSQEA----YGCMLRKDDPQFKKLMDDTI 286
+                        ||  ||       |||||| ||     .|  . | |     |||||||||||||||||||
+null                 31 RAXXFMXMTCCWXGERAKAXKPRQ---LGN-RRQXAVSGXXGCMLRKDDPQFKKLMDDTI  86
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  287 AQVQTSGEAEKWFDKWFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQ 346
+                        |||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                 87 AQVQXSGEAEKWFDKWFKNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQ 146
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  347 QNTPIGDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGG 406
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                147 QNTPIGDGPVLLPDNHYLSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGG 206
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  407 SMSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPT 466
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                207 SMSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPT 266
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  467 LVTTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTL 526
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                267 LVTTLTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTL 326
+
+                        301                                                354
+pRSETA-iGluSnFRopt  527 VNRIELKGTDFKEDGNILGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 580
+                        ||||||||||||||||||||||||||||| ||||||||||||||||||||||||
+null                327 VNRIELKGTDFKEDGNILGHKLEYNFNNPKNMNFELSDEMKALFKEPNDKALK* 380
+R8-T7-Term_A05.ab1REVERSED_ONE
+                        1                                                         60
+pRSETA-iGluSnFRopt  246 RAKAKKPDNWEIVGKPQS--QEAYGCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDKWF 303
+                        |||||     ..  . |.      ||||||||||||||||||||||||||||||||||||
+null                 33 RAKAKXXR--QLGNRRQAAVSGXXGCMLRKDDPQFKKLMDDTIAQVQTSGEAEKWFDKWF  90
+
+                        61                                                       120
+pRSETA-iGluSnFRopt  304 KNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHY 363
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                 91 KNPILVSHNVYITADKQKNGIKANFTVRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHY 150
+
+                        121                                                      180
+pRSETA-iGluSnFRopt  364 LSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILV 423
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                151 LSTQTVLSKDPNEKRDHMVLHEYVNAAGITLGMDELYKGGTGGSMSKGEELFTGVVPILV 210
+
+                        181                                                      240
+pRSETA-iGluSnFRopt  424 ELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPD 483
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                211 ELDGDVNGHKFSVRGEGEGDATIGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPD 270
+
+                        241                                                      300
+pRSETA-iGluSnFRopt  484 HMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNI 543
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+null                271 HMKRHDFFKSAMPEGYVQERTISFKDDGKYKTRAVVKFEGDTLVNRIELKGTDFKEDGNI 330
+
+                        301                               337
+pRSETA-iGluSnFRopt  544 LGHKLEYNFNNPLNMNFELSDEMKALFKEPNDKALK* 580
+                        ||||||||||| |||||||||||||||||||||||||
+null                331 LGHKLEYNFNNTLNMNFELSDEMKALFKEPNDKALK* 367
